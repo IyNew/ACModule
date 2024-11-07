@@ -48,4 +48,6 @@ sequenceDiagram
     KA ->> C: Return the encrypted AES key
     note over C: hold the encrypted AES key for future use
 ```
+# More info
 
+Check the development [doc](https://docs.google.com/document/d/1vf__Ky78Xln8VqBPzxp6_5bVw9Ik1wJpJxFKpbgLld4/edit?tab=t.0#heading=h.lue6hbsm2kdk).
