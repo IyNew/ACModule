@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/merkle.dir/main.cpp.o  -o merkle  -L/usr/local/lib -Wl,-rpath,/usr/local/lib ../libsnark/depends/libff/libff/libff.a -lgmpxx -lgmp -lprocps /usr/lib/x86_64-linux-gnu/libgmp.so ../libsnark/depends/libzm.a 
